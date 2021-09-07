@@ -1,0 +1,4 @@
+#!C:\Users\USER\PycharmProjects\nopecommerceAap\venv\Scripts\python.exe
+
+from log_parser import server
+server.start("0.0.0.0", 5000)
